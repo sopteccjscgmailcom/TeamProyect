@@ -1,7 +1,7 @@
 import React from 'react'
 import { Cliver } from './routes/Cliver'
 import { Isaac } from './routes/Isaac'
-import { NavBar } from './componets/NavBar'
+import { NavBar } from './components/NavBar'
 import { HomeScreen } from './routes/HomeScreen'
 import { Navigate, Route, Routes } from 'react-router-dom'
 
