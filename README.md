@@ -32,3 +32,6 @@ Currently, two official plugins are available:
     @tailwind base;
     @tailwind components;
     @tailwind utilities;
+
+### Instalacion de react-router-dom
+    npm i react-router-dom
